@@ -49,7 +49,7 @@
 - Comments are written like in  HTML `<!-- This is a comment -->`
 - White-space is Preserved in XML
 
-XML documents that conform to the syntax rules above are said to be "Well Formed" XML documents.
+XML documents that confirm to the syntax rules above are said to be "Well Formed" XML documents.
 
 
 ### XML Elements : 
