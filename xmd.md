@@ -35,7 +35,7 @@
 - To use international/unicode characters use encoding as `UTF-8`
 - All XML documents must have a root tag
 - All XML elements must have a closing tag
-- XML tags are case sensitive, XML tags are case sensitive. The tag `<Message>` is different from the tag `<messege>`
+- XML tags are case sensitive, XML tags are case sensitive. The tag `<Message>` is different from the tag `<message>`
 - All XML elements must be properly nested, `<b><i>This text is bold and italic</b></i>`
 - Attribute values must always be quoted `<note date=12/11/99>`, `<note date="12/11/99">`
 - Special characters should be in Entity References. Like `<` should be `&lt;`
